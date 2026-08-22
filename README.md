@@ -25,7 +25,7 @@ I'm a software developer focused on **AI evaluation and training-data quality**.
 - 📍 Based in Gurugram, India
 
 <!-- AUTO:DATE:START -->
-_Profile last updated: —_
+_Profile last updated: 22 Aug 2026_
 <!-- AUTO:DATE:END -->
 
 ---
@@ -90,7 +90,7 @@ Full-stack e-learning web application with course management and a responsive UI
 </div>
 
 <!-- AUTO:STATS:START -->
-<!-- public repos & followers auto-filled by the workflow -->
+<sub>16 public repositories · 3 followers</sub>
 <!-- AUTO:STATS:END -->
 
 ---
