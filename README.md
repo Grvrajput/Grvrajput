@@ -8,7 +8,7 @@
 `LLM Evaluation` • `RLHF / SFT Data` • `Benchmark Engineering` • `AI Infrastructure`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Grvrajput-181717?style=flat&logo=github)](https://github.com/Grvrajput)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Kumar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/gaurav-kumar-283707369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Kumar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-kumar-081158303)
 [![Email](https://img.shields.io/badge/Email-gk847862%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gk847862@gmail.com)
 
 </div>
@@ -97,7 +97,7 @@ Full-stack e-learning web application with course management and a responsive UI
 
 ## 🤝 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/gaurav-kumar-283707369)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kumar-081158303)
 - 📧 [gk847862@gmail.com](mailto:gk847862@gmail.com)
 - 💻 [GitHub](https://github.com/Grvrajput)
 
