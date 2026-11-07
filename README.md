@@ -25,7 +25,7 @@ I'm a software developer focused on **AI evaluation and training-data quality**.
 - 📍 Based in Gurugram, India
 
 <!-- AUTO:DATE:START -->
-_Profile last updated: 06 Nov 2026_
+_Profile last updated: 07 Nov 2026_
 <!-- AUTO:DATE:END -->
 
 ---
